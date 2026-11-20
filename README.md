@@ -1,16 +1,21 @@
-## Hi there 👋
+# ApexStack Systems
 
-<!--
-**apexstack-systems/apexstack-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building the digital infrastructure of Africa.
 
-Here are some ideas to get you started:
+We are a founder-led software engineering firm based in Accra, Ghana. We build the automated systems, payment rails, and data engines that scale African businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Our Products
+- **SchoolLedger GH**: Automating fee collection and reconciliation for private schools.
+
+## 🛠️ Our Stack
+- **Frontend**: Next.js 14, TypeScript, Tailwind CSS
+- **Backend**: Supabase, PostgreSQL, Node.js
+- **AI**: Google Gemini, OpenAI, AI Agents
+- **Deployment**: Vercel
+
+## 📫 Contact
+- **Email**: hello@apexstacksystems.com
+- **Domain**: apexstacksystems.com
+
+---
+*Focus creates clarity. Clarity creates manifestation.*
